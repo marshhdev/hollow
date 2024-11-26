@@ -81,3 +81,9 @@ body {
     width: 100%;
 }
 
+.videoyt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
