@@ -1,0 +1,83 @@
+
+@font-face {
+    font-family: fontePrincipal;
+    src: url(Poppins-Regular.ttf);
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: fontePrincipal;
+}
+
+.tio{
+    height: 100%;
+    width: 100%;
+    display: flex;
+} 
+
+.primo{
+    height: 84%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.background{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pai{
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+
+.filho{
+    height: 100%;
+    width: 50%;
+}
+
+.filha{
+    height: 100%;
+    width: 50%;
+}
+
+.part2{
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+
+.sub2{
+    height: 100%;
+    width: 50%;
+}
+
+.sub3{
+    height: 100%;
+    width: 30%;
+}
+
+.part3{
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+
+.sub4{
+    height: 100%;
+    width: 100%;
+}
+
+.sub5{
+    height: 100%;
+    width: 100%;
+}
+
