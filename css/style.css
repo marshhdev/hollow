@@ -9,82 +9,121 @@ body {
     color: white;
     font-family: fontePrincipal;
     font-size: 85%;
+
+
+    .tio{
+        height: 100%;
+        width: 100%;
+        display: flex;
+    } 
+    
+    .primo{
+        height: 84%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+    }
+    
+    .background{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .pai{
+        height: 50%;
+        width: 100%;
+        display: flex;
+    }
+    
+    .filho{
+        height: 100%;
+        width: 50%;
+    }
+    
+    .filha{
+        height: 100%;
+        width: 50%;
+    }
+    
+    .part2{
+        height: 50%;
+        width: 100%;
+        display: flex;
+    }
+    
+    .sub2{
+        height: 100%;
+        width: 50%;
+    }
+    
+    .sub3{
+        display: flex;
+        height: 100%;
+        width: 30%;
+    }
+    
+    .part3{
+        height: 50%;
+        width: 100%;
+        display: flex;
+    }
+    
+    .sub4{
+        height: 100%;
+        width: 100%;
+    }
+    
+    .sub5{
+        height: 100%;
+        width: 100%;
+    }
+    
+    .videoyt{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .titulo{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .dlcs{
+        display: flex;
+        width: 50px;
+        .hidden{
+            display: flex;
+            justify-content: center;
+            .sting{
+                
+            }
+        }
+    .dreams{
+        padding-left: 14px;
+    }
+    .trupegrim{
+        padding: 14px;
+    }
+        .troupe{
+            display: flex;
+            justify-content: center;
+            .red{
+    
+            }
+        }
+        .blood{
+            display: flex;
+            justify-content: center;
+        }
+        .master{
+            display: flex;
+            justify-content: center;
+            .god{
+            }
+        }
+    }
 }
-
-.tio{
-    height: 100%;
-    width: 100%;
-    display: flex;
-} 
-
-.primo{
-    height: 84%;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-}
-
-.background{
-    height: 100%;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.pai{
-    height: 50%;
-    width: 100%;
-    display: flex;
-}
-
-.filho{
-    height: 100%;
-    width: 50%;
-}
-
-.filha{
-    height: 100%;
-    width: 50%;
-}
-
-.part2{
-    height: 50%;
-    width: 100%;
-    display: flex;
-}
-
-.sub2{
-    height: 100%;
-    width: 50%;
-}
-
-.sub3{
-    height: 100%;
-    width: 30%;
-}
-
-.part3{
-    height: 50%;
-    width: 100%;
-    display: flex;
-}
-
-.sub4{
-    height: 100%;
-    width: 100%;
-}
-
-.sub5{
-    height: 100%;
-    width: 100%;
-}
-
-.videoyt{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
